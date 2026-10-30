@@ -1,0 +1,34 @@
+{
+    "student": "Aldovino",
+    "student_id": "TUMP-26-4168",
+    "records_processed": 1027,
+    "target_status_class": "2xx",
+    "records_in_target_class": 857,
+    "count_per_status_code": {
+        "200": 849,
+        "206": 8
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "GET /login.php HTTP/1.1",
+            "requests": 105
+        },
+        {
+            "url": "GET /home.php HTTP/1.1",
+            "requests": 91
+        },
+        {
+            "url": "GET /css/normalize.css HTTP/1.1",
+            "requests": 39
+        },
+        {
+            "url": "GET /css/bootstrap.min.css HTTP/1.1",
+            "requests": 38
+        },
+        {
+            "url": "GET /css/font-awesome.min.css HTTP/1.1",
+            "requests": 37
+        }
+    ],
+    "filtered_csv_file": "Aldovino_web_filtered.csv"
+}

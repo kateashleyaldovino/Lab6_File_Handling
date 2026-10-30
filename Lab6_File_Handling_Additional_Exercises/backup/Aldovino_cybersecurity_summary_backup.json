@@ -1,0 +1,45 @@
+{
+    "student": "Aldovino",
+    "student_id": "TUMP-26-4168",
+    "target_year": 2023,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 315,
+    "count_per_attack_type": {
+        "DDoS": 51,
+        "Ransomware": 50,
+        "Phishing": 46,
+        "Malware": 55,
+        "Man-in-the-Middle": 50,
+        "SQL Injection": 63
+    },
+    "total_financial_loss_usd_millions": 15958.08,
+    "average_financial_loss_usd_millions": 50.66,
+    "five_costliest_incidents": [
+        {
+            "original_dataset_position": 1370,
+            "attack_type": "Malware",
+            "financial_loss_usd_millions": 99.72
+        },
+        {
+            "original_dataset_position": 1912,
+            "attack_type": "Man-in-the-Middle",
+            "financial_loss_usd_millions": 99.71
+        },
+        {
+            "original_dataset_position": 2379,
+            "attack_type": "DDoS",
+            "financial_loss_usd_millions": 99.64
+        },
+        {
+            "original_dataset_position": 2160,
+            "attack_type": "DDoS",
+            "financial_loss_usd_millions": 99.62
+        },
+        {
+            "original_dataset_position": 232,
+            "attack_type": "SQL Injection",
+            "financial_loss_usd_millions": 99.19
+        }
+    ],
+    "filtered_csv_file": "Aldovino_cybersecurity_2023.csv"
+}

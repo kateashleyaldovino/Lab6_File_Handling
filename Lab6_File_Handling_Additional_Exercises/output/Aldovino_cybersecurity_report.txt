@@ -1,0 +1,30 @@
+CYBERSECURITY INCIDENT REPORT
+============================
+Student: Aldovino
+Student ID: TUMP-26-4168
+Target Year: 2023
+Total Records in Dataset: 3000
+Incidents in Target Year: 315
+
+COUNT PER ATTACK TYPE
+DDoS: 51
+Ransomware: 50
+Phishing: 46
+Malware: 55
+Man-in-the-Middle: 50
+SQL Injection: 63
+
+FINANCIAL LOSS
+Total: 15958.08 USD million
+Average: 50.66 USD million
+
+FIVE COSTLIEST INCIDENTS
+1. Malware - 99.72 USD million (original position: 1370)
+2. Man-in-the-Middle - 99.71 USD million (original position: 1912)
+3. DDoS - 99.64 USD million (original position: 2379)
+4. DDoS - 99.62 USD million (original position: 2160)
+5. SQL Injection - 99.19 USD million (original position: 232)
+
+Filtered CSV: Aldovino_cybersecurity_2023.csv
+JSON Summary: Aldovino_cybersecurity_summary.json
+Backup Verified: True
