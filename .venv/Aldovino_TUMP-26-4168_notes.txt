@@ -1,0 +1,5 @@
+Student: Aldovino
+Student ID: TUMP-26-4168
+Seed digit: 8
+ID sum: 27
+Verification value: 224

@@ -1,0 +1,11 @@
+PYTHON FILE HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Aldovino
+Student ID: TUMP-26-4168
+Seed Digit: 8
+ID Sum: 27
+Verification Value: 224
+Dataset Sample Size: 37
+Valid Records: 37
+Average Global Active Power: 4.184
+Backup File: Aldovino_TUMP-26-4168_record.csv
